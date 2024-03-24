@@ -1,3 +1,2 @@
-/.node_modeules
-/.package-lock.json
-/.dockerfile
+/node_modeules
+/package-lock.json
